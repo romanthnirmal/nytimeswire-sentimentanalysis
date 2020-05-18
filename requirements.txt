@@ -1,0 +1,4 @@
+google-cloud-language
+bokeh
+pandas
+tqdm
